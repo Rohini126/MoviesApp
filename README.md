@@ -1,5 +1,5 @@
 # MoviesApp
-viewMovies 
+viewMovies :
     [
       {
         MovieId : 1,
@@ -12,15 +12,15 @@ viewMovies
       }
     ]
     
-CreateMovie
+CreateMovie:
    Movie Created Successfully
    
-UpdateMovie
+UpdateMovie:
    Movie Updated Successfully
    
-CreateActor
+CreateActor:
    Actor Created Successfully
    
-CreateProducer
+CreateProducer:
    Producer Created Successfully
     
