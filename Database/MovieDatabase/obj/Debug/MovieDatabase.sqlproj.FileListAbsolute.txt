@@ -1,0 +1,10 @@
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\bin\Debug\MovieDatabase.dacpac
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\obj\Debug\MovieDatabase.sqlproj.AssemblyReference.cache
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\obj\Debug\Model.xml
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\obj\Debug\refactor.xml
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\obj\Debug\postdeploy.sql
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\obj\Debug\predeploy.sql
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\obj\Debug\MovieDatabase.dll
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\obj\Debug\MovieDatabase.pdb
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\bin\Debug\MovieDatabase.dll
+D:\MoviesApp\MoviesApp\Database\MovieDatabase\bin\Debug\MovieDatabase.pdb
